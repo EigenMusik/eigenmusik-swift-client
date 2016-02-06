@@ -1,0 +1,10 @@
+{
+  "projectName" : "EigenMusik",
+  "podVersion" : "1.0.0",
+  "podAuthors" : "Tim Coulson",
+  "podSocialMediaURL" : "http://www.timrcoulson.com",
+  "podHomepage" : "http://www.eigenmusik.com",
+  "podDescription" : "Swift client for the EigenMusik API",
+  "podDocumentationURL" : "http://api.eigenmusik.com",
+  "podSource" : "EigenMusik API client"
+}
